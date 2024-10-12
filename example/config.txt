@@ -1,0 +1,2 @@
+Prefix plugins/KaijuMakeDB/example/
+Plugin KaijuMakeDB inputfile parameters.makedb.txt outputfile none
